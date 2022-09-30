@@ -9,6 +9,16 @@
     "rating":"4.0/5",
     "date":"29/09/2022"
     },
+        {
+    "id":1011,
+    "institute_name": "Shri T P Bhatia College of Science",
+    "location":"india",
+    "yourDescription":"passed student of year 2018",
+    "about":"academic",
+    "review":"Best college for Science of class 11 and 12",
+    "rating":"4.7/5",
+    "date":"01/10/2022"
+    },
     {
     "id":2,
     "institute_name": "Dr. DY Patil Institute of Technology",
